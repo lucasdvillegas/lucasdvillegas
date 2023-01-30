@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px" alt="">
-    <h1 align="center">Hi, I'm Lucas Villegas 👋</h1>
+    <h1 align="center">Hi, <span style="color: #090909">I'm</span> Lucas Villegas 👋</h1>
     <h3>Actualmente me encuentro incursionando el lado Frontend con Angular/Typescript, aprendiendo mediante cursos, leyendo la documentación oficial y prácticas. <br>
     Espero que puedan encontrar de su agrado mis proyectos! 😄
     </h3>
