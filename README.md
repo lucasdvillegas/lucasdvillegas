@@ -1,4 +1,8 @@
-### Hi there 👋
+<div id="header" align="center">
+    <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px" alt="">
+    <h1 align="center">Hi, I'm Lucas Villegas 👋</h1>
+    <h2>Frontend Developer | Angular</h2>
+</div>
 
 <!--
 **lucasdvillegas/lucasdvillegas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
