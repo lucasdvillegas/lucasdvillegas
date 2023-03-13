@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px" alt="">
-    <h1 align="center">Hola 👋, Soy Lucas Villegas</h1>
+    <h1 align="center">Hola, soy Lucas Villegas 👋</h1>
 <h3 align="center">Un apasionado frontend developer con Angular</h3>
 </div>
 
