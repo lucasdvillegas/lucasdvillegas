@@ -1,7 +1,7 @@
 <div id="header" align="center">
     <img src="https://media.tenor.com/DimzPZMypFcAAAAM/laptop.gif" width="250px" alt="">
-    <h1 align="center">Hi 👋, I'm Lucas Villegas</h1>
-<h3 align="center">Un apasionado frontend developer de Argentina</h3>
+    <h1 align="center">Hola 👋, Soy Lucas Villegas</h1>
+<h3 align="center">Un apasionado frontend developer con Angular</h3>
 </div>
 
 - 👨‍💻 Mis proyectos están disponibles en [https://lucasdvillegas.github.io/](https://lucasdvillegas.github.io/)
