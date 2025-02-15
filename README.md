@@ -4,8 +4,6 @@
 <h3 align="center">Frontend developer con Vue</h3>
 </div>
 
-- 👨‍💻 Mis proyectos están disponibles en [https://lucasdvillegas.github.io/](https://lucasdvillegas.github.io/)
-
 - 💬 Podés preguntarme sobre **HTML, CSS, JS, Vue/Nuxt**
 
 <h3 align="left">Contáctame:</h3>
